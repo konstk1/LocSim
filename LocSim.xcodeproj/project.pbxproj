@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1C0548841D3D24060060FB93 /* boston common loop.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 1C0548831D3D24060060FB93 /* boston common loop.gpx */; };
+		1C0548861D3D455D0060FB93 /* comm boylston loop 3mi 1hr.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 1C0548851D3D455D0060FB93 /* comm boylston loop 3mi 1hr.gpx */; };
 		1C5A0EAE1D3D222B003F2F7B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5A0EAD1D3D222B003F2F7B /* AppDelegate.swift */; };
 		1C5A0EB01D3D222B003F2F7B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5A0EAF1D3D222B003F2F7B /* ViewController.swift */; };
 		1C5A0EB31D3D222B003F2F7B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C5A0EB11D3D222B003F2F7B /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		1C0548831D3D24060060FB93 /* boston common loop.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "boston common loop.gpx"; sourceTree = "<group>"; };
+		1C0548851D3D455D0060FB93 /* comm boylston loop 3mi 1hr.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "comm boylston loop 3mi 1hr.gpx"; sourceTree = "<group>"; };
 		1C5A0EAA1D3D222B003F2F7B /* LocSim.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocSim.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C5A0EAD1D3D222B003F2F7B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1C5A0EAF1D3D222B003F2F7B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		1C5A0EA11D3D222B003F2F7B = {
 			isa = PBXGroup;
 			children = (
+				1C0548851D3D455D0060FB93 /* comm boylston loop 3mi 1hr.gpx */,
 				1C0548831D3D24060060FB93 /* boston common loop.gpx */,
 				1C5A0EAC1D3D222B003F2F7B /* LocSim */,
 				1C5A0EAB1D3D222B003F2F7B /* Products */,
@@ -129,6 +132,7 @@
 				1C5A0EB81D3D222B003F2F7B /* LaunchScreen.storyboard in Resources */,
 				1C5A0EB51D3D222B003F2F7B /* Assets.xcassets in Resources */,
 				1C5A0EB31D3D222B003F2F7B /* Main.storyboard in Resources */,
+				1C0548861D3D455D0060FB93 /* comm boylston loop 3mi 1hr.gpx in Resources */,
 				1C0548841D3D24060060FB93 /* boston common loop.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
