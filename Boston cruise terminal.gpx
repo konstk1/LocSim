@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/42.3433384,-71.037227/42.3434709,-71.0373016/@42.3436076,-71.0326453,17.02z/data=!4m14!4m13!1m10!3m4!1m2!1d-71.0330257!2d42.3434093!3s0x89e37a9eafcdd961:0xbe41dc9a4913f794!3m4!1m2!1d-71.0219741!2d42.3436178!3s0x89e37aa1ae2af1e1:0xff7b8b047ac7ecad!1m0!3e2?hl=en</url-->
+    <time>2016-07-18T19:53:24Z</time>
+  </metadata>
+  <wpt lat="42.3433384" lon="-71.037227">
+    <name>662-696 Summer Street</name>
+    <desc>662-696 Summer Street, Boston, MA, USA</desc>
+    <time>2016-07-18T19:53:24Z</time>
+  </wpt>
+  <wpt lat="42.34335" lon="-71.03722">
+    <name>WP001</name>
+    <time>2016-07-18T19:54:20Z</time>
+  </wpt>
+  <wpt lat="42.34333" lon="-71.03714">
+    <name>WP002</name>
+    <time>2016-07-18T19:55:16Z</time>
+  </wpt>
+  <wpt lat="42.34338" lon="-71.03458">
+    <name>WP003</name>
+    <time>2016-07-18T19:56:12Z</time>
+  </wpt>
+  <wpt lat="42.34347" lon="-71.02977">
+    <name>WP004</name>
+    <time>2016-07-18T19:57:09Z</time>
+  </wpt>
+  <wpt lat="42.34351" lon="-71.02632">
+    <name>WP005</name>
+    <time>2016-07-18T19:58:05Z</time>
+  </wpt>
+  <wpt lat="42.34358" lon="-71.02206">
+    <name>WP006</name>
+    <time>2016-07-18T19:59:01Z</time>
+  </wpt>
+  <wpt lat="42.3436" lon="-71.02199">
+    <name>WP007</name>
+    <time>2016-07-18T19:59:57Z</time>
+  </wpt>
+  <wpt lat="42.34364" lon="-71.02196">
+    <name>WP008</name>
+    <time>2016-07-18T20:00:54Z</time>
+  </wpt>
+  <wpt lat="42.34433" lon="-71.02197">
+    <name>WP009</name>
+    <time>2016-07-18T20:01:50Z</time>
+  </wpt>
+  <wpt lat="42.34437" lon="-71.02201">
+    <name>WP010</name>
+    <time>2016-07-18T20:02:46Z</time>
+  </wpt>
+  <wpt lat="42.34438" lon="-71.02207">
+    <name>WP011</name>
+    <time>2016-07-18T20:03:42Z</time>
+  </wpt>
+  <wpt lat="42.34429" lon="-71.02538">
+    <name>WP012</name>
+    <time>2016-07-18T20:04:39Z</time>
+  </wpt>
+  <wpt lat="42.34424" lon="-71.02596">
+    <name>WP013</name>
+    <time>2016-07-18T20:05:35Z</time>
+  </wpt>
+  <wpt lat="42.34421" lon="-71.02611">
+    <name>WP014</name>
+    <time>2016-07-18T20:06:31Z</time>
+  </wpt>
+  <wpt lat="42.34412" lon="-71.02627">
+    <name>WP015</name>
+    <time>2016-07-18T20:07:27Z</time>
+  </wpt>
+  <wpt lat="42.34402" lon="-71.02642">
+    <name>WP016</name>
+    <time>2016-07-18T20:08:24Z</time>
+  </wpt>
+  <wpt lat="42.34392" lon="-71.02672">
+    <name>WP017</name>
+    <time>2016-07-18T20:09:20Z</time>
+  </wpt>
+  <wpt lat="42.3439" lon="-71.02696">
+    <name>WP018</name>
+    <time>2016-07-18T20:10:16Z</time>
+  </wpt>
+  <wpt lat="42.3439" lon="-71.02714">
+    <name>WP019</name>
+    <time>2016-07-18T20:11:12Z</time>
+  </wpt>
+  <wpt lat="42.34401" lon="-71.02713">
+    <name>WP020</name>
+    <time>2016-07-18T20:12:09Z</time>
+  </wpt>
+  <wpt lat="42.344" lon="-71.02805">
+    <name>WP021</name>
+    <time>2016-07-18T20:13:05Z</time>
+  </wpt>
+  <wpt lat="42.3439" lon="-71.03393">
+    <name>WP022</name>
+    <time>2016-07-18T20:14:01Z</time>
+  </wpt>
+  <wpt lat="42.34387" lon="-71.03532">
+    <name>WP023</name>
+    <time>2016-07-18T20:14:57Z</time>
+  </wpt>
+  <wpt lat="42.34386" lon="-71.03674">
+    <name>WP024</name>
+    <time>2016-07-18T20:15:54Z</time>
+  </wpt>
+  <wpt lat="42.3439" lon="-71.03697">
+    <name>WP025</name>
+    <time>2016-07-18T20:16:50Z</time>
+  </wpt>
+  <wpt lat="42.34394" lon="-71.03707">
+    <name>WP026</name>
+    <time>2016-07-18T20:17:46Z</time>
+  </wpt>
+  <wpt lat="42.34398" lon="-71.03716">
+    <name>WP027</name>
+    <time>2016-07-18T20:18:42Z</time>
+  </wpt>
+  <wpt lat="42.34381" lon="-71.03727">
+    <name>WP028</name>
+    <time>2016-07-18T20:19:39Z</time>
+  </wpt>
+  <wpt lat="42.34372" lon="-71.03729">
+    <name>WP029</name>
+    <time>2016-07-18T20:20:35Z</time>
+  </wpt>
+  <wpt lat="42.34353" lon="-71.03731">
+    <name>WP030</name>
+    <time>2016-07-18T20:21:31Z</time>
+  </wpt>
+  <wpt lat="42.34347" lon="-71.0373">
+    <name>WP031</name>
+    <time>2016-07-18T20:22:27Z</time>
+  </wpt>
+  <wpt lat="42.3434709" lon="-71.0373016">
+    <name>662-696 Summer Street</name>
+    <desc>662-696 Summer Street, Boston, MA, USA</desc>
+    <time>2016-07-18T20:23:24Z</time>
+  </wpt>
+</gpx>

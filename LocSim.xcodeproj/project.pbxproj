@@ -7,18 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1C0548841D3D24060060FB93 /* boston common loop.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 1C0548831D3D24060060FB93 /* boston common loop.gpx */; };
-		1C0548861D3D455D0060FB93 /* comm boylston loop 3mi 1hr.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 1C0548851D3D455D0060FB93 /* comm boylston loop 3mi 1hr.gpx */; };
 		1C5A0EAE1D3D222B003F2F7B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5A0EAD1D3D222B003F2F7B /* AppDelegate.swift */; };
 		1C5A0EB01D3D222B003F2F7B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5A0EAF1D3D222B003F2F7B /* ViewController.swift */; };
 		1C5A0EB31D3D222B003F2F7B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C5A0EB11D3D222B003F2F7B /* Main.storyboard */; };
 		1C5A0EB51D3D222B003F2F7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C5A0EB41D3D222B003F2F7B /* Assets.xcassets */; };
 		1C5A0EB81D3D222B003F2F7B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C5A0EB61D3D222B003F2F7B /* LaunchScreen.storyboard */; };
+		1C7B19751D3D6965004529AF /* NYC Bryant park loop.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 1C7B19741D3D6965004529AF /* NYC Bryant park loop.gpx */; };
+		1C7B19771D3D6B5E004529AF /* Boston cruise terminal.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 1C7B19761D3D6B5E004529AF /* Boston cruise terminal.gpx */; };
+		1C7B197A1D3D6BC0004529AF /* Boston Comm Boylston loop 3mi 1hr.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 1C7B19781D3D6BC0004529AF /* Boston Comm Boylston loop 3mi 1hr.gpx */; };
+		1C7B197B1D3D6BC0004529AF /* Boston Common loop.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 1C7B19791D3D6BC0004529AF /* Boston Common loop.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1C0548831D3D24060060FB93 /* boston common loop.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "boston common loop.gpx"; sourceTree = "<group>"; };
-		1C0548851D3D455D0060FB93 /* comm boylston loop 3mi 1hr.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "comm boylston loop 3mi 1hr.gpx"; sourceTree = "<group>"; };
 		1C5A0EAA1D3D222B003F2F7B /* LocSim.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocSim.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C5A0EAD1D3D222B003F2F7B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1C5A0EAF1D3D222B003F2F7B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -26,6 +26,10 @@
 		1C5A0EB41D3D222B003F2F7B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C5A0EB71D3D222B003F2F7B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C5A0EB91D3D222B003F2F7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C7B19741D3D6965004529AF /* NYC Bryant park loop.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "NYC Bryant park loop.gpx"; sourceTree = "<group>"; };
+		1C7B19761D3D6B5E004529AF /* Boston cruise terminal.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Boston cruise terminal.gpx"; sourceTree = "<group>"; };
+		1C7B19781D3D6BC0004529AF /* Boston Comm Boylston loop 3mi 1hr.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Boston Comm Boylston loop 3mi 1hr.gpx"; sourceTree = "<group>"; };
+		1C7B19791D3D6BC0004529AF /* Boston Common loop.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Boston Common loop.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,8 +46,10 @@
 		1C5A0EA11D3D222B003F2F7B = {
 			isa = PBXGroup;
 			children = (
-				1C0548851D3D455D0060FB93 /* comm boylston loop 3mi 1hr.gpx */,
-				1C0548831D3D24060060FB93 /* boston common loop.gpx */,
+				1C7B19781D3D6BC0004529AF /* Boston Comm Boylston loop 3mi 1hr.gpx */,
+				1C7B19791D3D6BC0004529AF /* Boston Common loop.gpx */,
+				1C7B19761D3D6B5E004529AF /* Boston cruise terminal.gpx */,
+				1C7B19741D3D6965004529AF /* NYC Bryant park loop.gpx */,
 				1C5A0EAC1D3D222B003F2F7B /* LocSim */,
 				1C5A0EAB1D3D222B003F2F7B /* Products */,
 			);
@@ -129,11 +135,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C7B19771D3D6B5E004529AF /* Boston cruise terminal.gpx in Resources */,
+				1C7B197A1D3D6BC0004529AF /* Boston Comm Boylston loop 3mi 1hr.gpx in Resources */,
 				1C5A0EB81D3D222B003F2F7B /* LaunchScreen.storyboard in Resources */,
 				1C5A0EB51D3D222B003F2F7B /* Assets.xcassets in Resources */,
 				1C5A0EB31D3D222B003F2F7B /* Main.storyboard in Resources */,
-				1C0548861D3D455D0060FB93 /* comm boylston loop 3mi 1hr.gpx in Resources */,
-				1C0548841D3D24060060FB93 /* boston common loop.gpx in Resources */,
+				1C7B19751D3D6965004529AF /* NYC Bryant park loop.gpx in Resources */,
+				1C7B197B1D3D6BC0004529AF /* Boston Common loop.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,10 +269,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = LocSim/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.kon.LocSim;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -273,10 +283,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = LocSim/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.kon.LocSim;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};

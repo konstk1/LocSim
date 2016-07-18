@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/40.7544116,-73.9839962/40.7543426,-73.9840461/@40.7543635,-73.9846583,19.25z/data=!4m24!4m23!1m20!3m4!1m2!1d-73.9831799!2d40.7539854!3s0x89c259aaa03ff477:0xe8553d173bbf23d4!3m4!1m2!1d-73.9833512!2d40.7532544!3s0x89c259aa8351277b:0x336c370bb5182c0f!3m4!1m2!1d-73.9843758!2d40.7538812!3s0x89c259aa94e7645f:0x3ec9f4576c60b5f5!3m4!1m2!1d-73.9840269!2d40.7539373!3s0x89c259aa96766b09:0xb867da15c6fe7b4d!1m0!3e2?hl=en</url-->
+    <time>2016-07-18T19:42:04Z</time>
+  </metadata>
+  <wpt lat="40.7544116" lon="-73.9839962">
+    <name>1080-1090 Avenue of the Americas</name>
+    <desc>1080-1090 Avenue of the Americas, New York, NY 10036, USA</desc>
+    <time>2016-07-18T19:42:04Z</time>
+  </wpt>
+  <wpt lat="40.75441" lon="-73.984">
+    <name>WP001</name>
+    <time>2016-07-18T19:42:17Z</time>
+  </wpt>
+  <wpt lat="40.75434" lon="-73.98405">
+    <name>WP002</name>
+    <time>2016-07-18T19:42:31Z</time>
+  </wpt>
+  <wpt lat="40.75428" lon="-73.9839">
+    <name>WP003</name>
+    <time>2016-07-18T19:42:44Z</time>
+  </wpt>
+  <wpt lat="40.75402" lon="-73.98326">
+    <name>WP004</name>
+    <time>2016-07-18T19:42:58Z</time>
+  </wpt>
+  <wpt lat="40.75387" lon="-73.9829">
+    <name>WP005</name>
+    <time>2016-07-18T19:43:12Z</time>
+  </wpt>
+  <wpt lat="40.75384" lon="-73.98293">
+    <name>WP006</name>
+    <time>2016-07-18T19:43:25Z</time>
+  </wpt>
+  <wpt lat="40.75328" lon="-73.98333">
+    <name>WP007</name>
+    <time>2016-07-18T19:43:39Z</time>
+  </wpt>
+  <wpt lat="40.75325" lon="-73.98335">
+    <name>WP008</name>
+    <time>2016-07-18T19:43:53Z</time>
+  </wpt>
+  <wpt lat="40.7534" lon="-73.9837">
+    <name>WP009</name>
+    <time>2016-07-18T19:44:06Z</time>
+  </wpt>
+  <wpt lat="40.75368" lon="-73.98434">
+    <name>WP010</name>
+    <time>2016-07-18T19:44:20Z</time>
+  </wpt>
+  <wpt lat="40.75373" lon="-73.98449">
+    <name>WP011</name>
+    <time>2016-07-18T19:44:34Z</time>
+  </wpt>
+  <wpt lat="40.75379" lon="-73.98445">
+    <name>WP012</name>
+    <time>2016-07-18T19:44:47Z</time>
+  </wpt>
+  <wpt lat="40.75397" lon="-73.98431">
+    <name>WP013</name>
+    <time>2016-07-18T19:45:01Z</time>
+  </wpt>
+  <wpt lat="40.75391" lon="-73.98417">
+    <name>WP014</name>
+    <time>2016-07-18T19:45:14Z</time>
+  </wpt>
+  <wpt lat="40.7539" lon="-73.9841">
+    <name>WP015</name>
+    <time>2016-07-18T19:45:28Z</time>
+  </wpt>
+  <wpt lat="40.75392" lon="-73.98405">
+    <name>WP016</name>
+    <time>2016-07-18T19:45:42Z</time>
+  </wpt>
+  <wpt lat="40.75396" lon="-73.98401">
+    <name>WP017</name>
+    <time>2016-07-18T19:45:55Z</time>
+  </wpt>
+  <wpt lat="40.75401" lon="-73.98402">
+    <name>WP018</name>
+    <time>2016-07-18T19:46:09Z</time>
+  </wpt>
+  <wpt lat="40.75404" lon="-73.98407">
+    <name>WP019</name>
+    <time>2016-07-18T19:46:23Z</time>
+  </wpt>
+  <wpt lat="40.7541" lon="-73.98421">
+    <name>WP020</name>
+    <time>2016-07-18T19:46:36Z</time>
+  </wpt>
+  <wpt lat="40.75434" lon="-73.98405">
+    <name>WP021</name>
+    <time>2016-07-18T19:46:50Z</time>
+  </wpt>
+  <wpt lat="40.7543426" lon="-73.9840461">
+    <name>1080-1090 Avenue of the Americas</name>
+    <desc>1080-1090 Avenue of the Americas, New York, NY 10036, USA</desc>
+    <time>2016-07-18T19:47:04Z</time>
+  </wpt>
+</gpx>
