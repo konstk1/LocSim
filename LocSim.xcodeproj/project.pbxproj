@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C0548841D3D24060060FB93 /* boston common loop.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 1C0548831D3D24060060FB93 /* boston common loop.gpx */; };
 		1C5A0EAE1D3D222B003F2F7B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5A0EAD1D3D222B003F2F7B /* AppDelegate.swift */; };
 		1C5A0EB01D3D222B003F2F7B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5A0EAF1D3D222B003F2F7B /* ViewController.swift */; };
 		1C5A0EB31D3D222B003F2F7B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C5A0EB11D3D222B003F2F7B /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1C0548831D3D24060060FB93 /* boston common loop.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "boston common loop.gpx"; sourceTree = "<group>"; };
 		1C5A0EAA1D3D222B003F2F7B /* LocSim.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocSim.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C5A0EAD1D3D222B003F2F7B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1C5A0EAF1D3D222B003F2F7B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -38,6 +40,7 @@
 		1C5A0EA11D3D222B003F2F7B = {
 			isa = PBXGroup;
 			children = (
+				1C0548831D3D24060060FB93 /* boston common loop.gpx */,
 				1C5A0EAC1D3D222B003F2F7B /* LocSim */,
 				1C5A0EAB1D3D222B003F2F7B /* Products */,
 			);
@@ -96,6 +99,7 @@
 				TargetAttributes = {
 					1C5A0EA91D3D222B003F2F7B = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 27M254VKK2;
 					};
 				};
 			};
@@ -125,6 +129,7 @@
 				1C5A0EB81D3D222B003F2F7B /* LaunchScreen.storyboard in Resources */,
 				1C5A0EB51D3D222B003F2F7B /* Assets.xcassets in Resources */,
 				1C5A0EB31D3D222B003F2F7B /* Main.storyboard in Resources */,
+				1C0548841D3D24060060FB93 /* boston common loop.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,6 +256,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = LocSim/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.kon.LocSim;
@@ -262,6 +268,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = LocSim/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.kon.LocSim;
@@ -288,6 +295,7 @@
 				1C5A0EBE1D3D222B003F2F7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
