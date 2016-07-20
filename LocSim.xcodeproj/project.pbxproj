@@ -12,6 +12,7 @@
 		1C5A0EB31D3D222B003F2F7B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C5A0EB11D3D222B003F2F7B /* Main.storyboard */; };
 		1C5A0EB51D3D222B003F2F7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C5A0EB41D3D222B003F2F7B /* Assets.xcassets */; };
 		1C5A0EB81D3D222B003F2F7B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C5A0EB61D3D222B003F2F7B /* LaunchScreen.storyboard */; };
+		1C69C7A01D3FBE5C00BE64A3 /* Single point.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 1C69C79F1D3FBE5C00BE64A3 /* Single point.gpx */; };
 		1C7B19751D3D6965004529AF /* NYC Bryant park loop.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 1C7B19741D3D6965004529AF /* NYC Bryant park loop.gpx */; };
 		1C7B19771D3D6B5E004529AF /* Boston cruise terminal.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 1C7B19761D3D6B5E004529AF /* Boston cruise terminal.gpx */; };
 		1C7B197A1D3D6BC0004529AF /* Boston Comm Boylston loop 3mi 1hr.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 1C7B19781D3D6BC0004529AF /* Boston Comm Boylston loop 3mi 1hr.gpx */; };
@@ -26,6 +27,7 @@
 		1C5A0EB41D3D222B003F2F7B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C5A0EB71D3D222B003F2F7B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C5A0EB91D3D222B003F2F7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C69C79F1D3FBE5C00BE64A3 /* Single point.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Single point.gpx"; sourceTree = "<group>"; };
 		1C7B19741D3D6965004529AF /* NYC Bryant park loop.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "NYC Bryant park loop.gpx"; sourceTree = "<group>"; };
 		1C7B19761D3D6B5E004529AF /* Boston cruise terminal.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Boston cruise terminal.gpx"; sourceTree = "<group>"; };
 		1C7B19781D3D6BC0004529AF /* Boston Comm Boylston loop 3mi 1hr.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Boston Comm Boylston loop 3mi 1hr.gpx"; sourceTree = "<group>"; };
@@ -50,6 +52,7 @@
 				1C7B19791D3D6BC0004529AF /* Boston Common loop.gpx */,
 				1C7B19761D3D6B5E004529AF /* Boston cruise terminal.gpx */,
 				1C7B19741D3D6965004529AF /* NYC Bryant park loop.gpx */,
+				1C69C79F1D3FBE5C00BE64A3 /* Single point.gpx */,
 				1C5A0EAC1D3D222B003F2F7B /* LocSim */,
 				1C5A0EAB1D3D222B003F2F7B /* Products */,
 			);
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1C7B19771D3D6B5E004529AF /* Boston cruise terminal.gpx in Resources */,
+				1C69C7A01D3FBE5C00BE64A3 /* Single point.gpx in Resources */,
 				1C7B197A1D3D6BC0004529AF /* Boston Comm Boylston loop 3mi 1hr.gpx in Resources */,
 				1C5A0EB81D3D222B003F2F7B /* LaunchScreen.storyboard in Resources */,
 				1C5A0EB51D3D222B003F2F7B /* Assets.xcassets in Resources */,
